@@ -1,10 +1,10 @@
-Replace this with a list of your favorite things.
+List of my favorite things.
 1. Movies
   * Comedy
   * Action
+    * Superhero
   * Mystery
 2. Videogames
   * Adventure
-    * Metroidvanias
   * Strategy
 3. Dogs
