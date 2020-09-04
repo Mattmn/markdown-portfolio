@@ -1,9 +1,8 @@
 List of my favorite things.
 1. Movies
- * Comedy
- * Action
-  * Superhero
- * Mystery
+  * Comedy
+  * Action
+  * Mystery
 2. Videogames
  * Adventure
  * Strategy
